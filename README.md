@@ -35,9 +35,6 @@
 </p>
 
 ### Project Management & Collaboration :
-<p>
-  <img src="https://skillicons.dev/icons?i=jira,confluence" />
-</p>
 Agile • Scrum • Sprint Planning • Stakeholder Communication
 
 
